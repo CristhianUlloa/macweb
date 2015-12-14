@@ -1,3 +1,6 @@
 *.save
 *.swp
 *.ORIG
+
+packages/
+private/dininghall/client_secret.json

@@ -1,8 +1,15 @@
 /* CSS declarations go here */
 .entryj {
 
+	background-image: url(/entry/j/background.jpg);
+	background-repeat: repeat;
+
 	nav {
 		margin: 0;
+
+		li > a:hover {
+			background-color: #8c41d8;
+		}
 	}
 
 	.title-div {
